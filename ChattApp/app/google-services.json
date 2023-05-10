@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "12902577797",
+    "project_id": "mouadh-478bc",
+    "storage_bucket": "mouadh-478bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12902577797:android:e45e596298dd3835f25bec",
+        "android_client_info": {
+          "package_name": "com.example.chattapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12902577797-tt7hnvut36pj35hngddv8l5q0cr5lam0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7Y77XWehCxs4SYmcgVkyr335GL4rQcPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12902577797-tt7hnvut36pj35hngddv8l5q0cr5lam0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
